@@ -38,13 +38,14 @@ Relevant Coursework:
 ---
 **Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021***
 
-- Managed success of multiple classes (100+ students) through coaching, guidance and providing additional resources
+- Managed multiple classes (100+ students)
 - Led interactive live sessions over Zoom to impart culinary and cultural knowledge
 - Provided personalized video feedback for each student's weekly cooking assignment
 - Taught classes on world cuisine, focusing on importance of understanding one another through our food
 - Held tutoring sessions focusing on restaurant/business math
 - Developed Excel spreadsheets to streamline tracking student progress (weekly assignment submissions, participation, etc.) - data pulled from Moodle CMS, Salesforce, and Sisense
-- Created a simple grade tracking spreadsheet for student use (Moodle lacked an option to explore possible grade outcomes with differently weighted assignments and quizzes)  
+- Created a simple grade tracking spreadsheet for student use (Moodle lacked an option to explore possible grade outcomes with differently weighted assignments and quizzes)
+- Increased student engagement by holding quarterly cooking challenges with prizes, students would have to design and cost an effective menu, then the class would vote to select the winners (prizes were cookbooks/cooking utensils)  
 
 ---
 **Culinary Engineer - *Doe Bay Café, June 2016 - September 2019***
