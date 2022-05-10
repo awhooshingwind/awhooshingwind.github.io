@@ -20,7 +20,7 @@ Relevant Coursework:
 ### Colorado State University - BA: English Literature *May 2010* ###
 ---
 ## Work Experience: ##
----
+
 Co-founder - *Good Foods Project, September 2019 - Present*
 
 "Advocacy, education & culinary diplomacy through industry partnerships & community engagement."
