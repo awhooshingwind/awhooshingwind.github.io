@@ -21,9 +21,10 @@ Relevant Coursework:
 
 ### Colorado State University - BA: English Literature *May 2010* ###  
   
-  
+
 ---
-## Work Experience: ##
+## Work Experience: ##  
+
 
 Co-founder - *Good Foods Project, September 2019 - Present*
 
@@ -31,8 +32,9 @@ Co-founder - *Good Foods Project, September 2019 - Present*
 - Host & cater chef-driven pop-up dinners featuring local/seasonal ingredients
 - Study & explore American regional cuisine
 - Interview & collaborate with chefs/farmers/hospitality purveyors across the country to showcase exceptional examples of American culinary culture
-- Develop, test, and share recipes and techniques that highlight local/seasonal/sustainable food practices  
-
+- Develop, test, and share recipes and techniques that highlight local/seasonal/sustainable food practices
+  
+  
 ---
 Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021* 
 
