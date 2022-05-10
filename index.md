@@ -38,7 +38,7 @@ Relevant Coursework:
 ---
 **Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021***
 
-- Managed multiple classes (100+ students)
+- Managed multiple classes (100+ students each class)
 - Led interactive live sessions over Zoom to impart culinary and cultural knowledge
 - Provided personalized video feedback for each student's weekly cooking assignment
 - Taught classes on world cuisine, focusing on importance of understanding one another through our food
