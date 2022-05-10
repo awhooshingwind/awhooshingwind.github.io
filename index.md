@@ -11,7 +11,7 @@
 
 ## Education:  ##
 
-### Tacoma Community College - AS: Astronomy Focus *December 2022*  ###
+### Tacoma Community College - AS: Astronomy *December 2022*  ###
 
 Relevant Coursework:
 - Engineering-based Physics Progression 
