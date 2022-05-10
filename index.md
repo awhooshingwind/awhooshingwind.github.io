@@ -3,8 +3,11 @@
 > 
 > Contact: 720-291-6056, jakep730@gmail.com
 ---
+## Skills: ##
+- Bill paying 
+- Awesomeness
 
-Education:  
+## Education:  ##
 
 Tacoma Community College - Associate's degree *December 2022*  
 
@@ -17,7 +20,7 @@ Relevant Coursework:
 Colorado State University - Bachelor's degree: English Literature *May 2010*
 ---  
 
-Work Experience:
+## Work Experience: ##
 Co-founder - *Good Foods Project*
 
 9/2019 - Present
