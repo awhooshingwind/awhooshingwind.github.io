@@ -4,15 +4,19 @@
 > Contact: 720-291-6056, jakep730@gmail.com
 ---
 
-Education:
+Education:  
+
 Tacoma Community College - Associate's degree *December 2022*  
 
 Relevant Coursework:
-`- Engineering-based Physics Progression - Calculus (through multi-variable and differential equations) & Linear Algebra - Applied Numerical Methods - Engineering Focus (Matlab) - 1 Year Java Programming  `
+- Engineering-based Physics Progression 
+- Calculus (through multi-variable and differential equations) & Linear Algebra 
+- Applied Numerical Methods - Engineering Focus (Matlab) 
+- 1 Year Java Programming
 
-Colorado State University Fort Collins, CO United States
-Bachelor's degree - English Literature *May 2010*
----
+Colorado State University - Bachelor's degree: English Literature *May 2010*
+---  
+
 Work Experience:
 Co-founder - *Good Foods Project*
 
