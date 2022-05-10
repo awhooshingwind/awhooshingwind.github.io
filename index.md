@@ -20,7 +20,7 @@ Relevant Coursework:
 ### Colorado State University - BA: English Literature *May 2010* ###
 ---
 ## Work Experience: ##
-Co-founder - *Good Foods Project; 9/2019 - Present*
+Co-founder - *Good Foods Project, September 2019 - Present*
 
 "Advocacy, education & culinary diplomacy through industry partnerships & community engagement."
 - Host & Cater chef-driven pop-up dinners featuring local/seasonal ingredients
@@ -28,7 +28,7 @@ Co-founder - *Good Foods Project; 9/2019 - Present*
 - Interview & Collaborate with chefs/farmers/hospitality purveyors across the country to showcase exceptional examples of American culinary culture
 - Develop, test, and share recipes and techniques that highlight local/seasonal/sustainable food practices
 ---
-Chef Instructor - *Escoffier Culinary Arts; May 2020 - May 2021* 
+Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021* 
 
 - Managed success of multiple classes (100+ students) through coaching, guidance and providing additional resources
 - Led interactive live sessions over Zoom to impart culinary and cultural knowledge
@@ -38,7 +38,7 @@ Chef Instructor - *Escoffier Culinary Arts; May 2020 - May 2021*
 - Developed Excel spreadsheets to streamline tracking student progress (weekly assignment submissions, participation, etc.) - data pulled from Moodle CMS, Salesforce, and Sisense
 - Created a simple grade tracking spreadsheet for student use (Moodle lacked an option to explore possible grade outcomes with differently weighted assignments and quizzes)
 ---
-Brunch Lead/PM saute cook - *Doe Bay Café; June 2016 - September 2019*
+Culinary Engineer - *Doe Bay Café, June 2016 - September 2019*
 
 - Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
 - Explored hydration and agitation of wheat proteins for optimal gluten structures by hand (making fresh pasta daily)
