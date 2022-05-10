@@ -9,7 +9,7 @@
 
 ## Education:  ##
 
-Tacoma Community College - AS: Astronomy Focus *December 2022*  
+### Tacoma Community College - AS: Astronomy Focus *December 2022*  ###
 
 Relevant Coursework:
 - Engineering-based Physics Progression 
@@ -17,7 +17,7 @@ Relevant Coursework:
 - Applied Numerical Methods - Engineering Focus (Matlab) 
 - 1 Year Java Programming
 
-Colorado State University - BA: English Literature *May 2010*
+### Colorado State University - BA: English Literature *May 2010* ###
 ---
 ## Work Experience: ##
 Co-founder - *Good Foods Project*; 9/2019 - Present
