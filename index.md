@@ -19,7 +19,9 @@ Relevant Coursework:
 - Applied Numerical Methods - Engineering Focus (Matlab) 
 - 1 Year Java Programming
 
-### Colorado State University - BA: English Literature *May 2010* ###
+### Colorado State University - BA: English Literature *May 2010* ###  
+  
+  
 ---
 ## Work Experience: ##
 
@@ -29,7 +31,8 @@ Co-founder - *Good Foods Project, September 2019 - Present*
 - Host & cater chef-driven pop-up dinners featuring local/seasonal ingredients
 - Study & explore American regional cuisine
 - Interview & collaborate with chefs/farmers/hospitality purveyors across the country to showcase exceptional examples of American culinary culture
-- Develop, test, and share recipes and techniques that highlight local/seasonal/sustainable food practices
+- Develop, test, and share recipes and techniques that highlight local/seasonal/sustainable food practices  
+
 ---
 Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021* 
 
@@ -39,7 +42,8 @@ Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
 - Taught classes on world cuisine, focusing on importance of understanding one another through our food
 - Held tutoring sessions focusing on restaurant/business math
 - Developed Excel spreadsheets to streamline tracking student progress (weekly assignment submissions, participation, etc.) - data pulled from Moodle CMS, Salesforce, and Sisense
-- Created a simple grade tracking spreadsheet for student use (Moodle lacked an option to explore possible grade outcomes with differently weighted assignments and quizzes)
+- Created a simple grade tracking spreadsheet for student use (Moodle lacked an option to explore possible grade outcomes with differently weighted assignments and quizzes)  
+
 ---
 Culinary Engineer - *Doe Bay Café, June 2016 - September 2019*
 
