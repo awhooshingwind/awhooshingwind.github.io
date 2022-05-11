@@ -4,9 +4,9 @@
 > endeavoring to get involved in astrophysics research. 
 > Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com), [GitHub](https://github.com/awhooshingwind)
 
-## Education:
+### Education:
 
-### Tacoma Community College - AS: Astronomy *December 2022*  
+#### Tacoma Community College - AS: Astronomy *December 2022*  
  
 Relevant Coursework:
 - Engineering-based Physics Progression 
@@ -14,11 +14,11 @@ Relevant Coursework:
 - Applied Numerical Methods - Engineering Focus (Matlab) 
 - 1 Year Java Programming  
 
-### Colorado State University - BA: English Literature *May 2010*  
+#### Colorado State University - BA: English Literature *May 2010*  
 
 ---
 
-## Work Experience: 
+### Work Experience: 
 
 **Founder - *Chiral Crafts LLC, May 2020 - Present***
 
