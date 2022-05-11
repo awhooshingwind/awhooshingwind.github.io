@@ -28,13 +28,10 @@ Relevant Coursework:
 ## Work Experience: ##  
 
 
-**Co-founder - *Good Foods Project, September 2019 - Present***
+**Founder - *Chiral Crafts LLC, May 2020 - Present***
 
-"Advocacy, education & culinary diplomacy through industry partnerships & community engagement."
-- Host & cater chef-driven pop-up dinners featuring local/seasonal ingredients
-- Study & explore American regional cuisine
-- Interview & collaborate with chefs/farmers/hospitality purveyors across the country to showcase exceptional examples of American culinary culture
-- Develop, test, and share recipes and techniques that highlight local/seasonal/sustainable food practices
+- Since I'm attemtping to make a pretty radical career change (from 10 years of chef-dom to now hopefully a research astrophysicist), I started this small company for some freelance work outside of my studies/attempts to strengthen my graduate school application
+- So far I've mostly done commissioned metalwork (some [wine bar shelving](<img src="\images\all_together_now">) and knife sharpening, but hope to expand into making custom furniture and development work as I continue to learn more about programming
   
 
 ---
