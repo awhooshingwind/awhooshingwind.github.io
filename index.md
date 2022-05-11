@@ -53,7 +53,7 @@ Relevant Coursework:
 **Culinary Engineer - *Doe Bay Café, June 2016 - September 2019***
 
 - Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
-- Explored hydration and agitation of wheat proteins for optimal gluten structures by hand (making fresh pasta daily)
+- Explored hydration and agitation of wheat proteins for optimal gluten structures (hand making fresh pasta daily)
 - Utilized various chemicals and enzymes to cultivate sanitary (and tasty) environments for food preservation, such as salt and nitrites for various proteins (bacon, pastrami, beet-based pastrami) and lactic acids from produce cultivated onsite (kimchi, various pickles and krauts)
 - Continued a decade's worth of research into Maillard reactions in various animal proteins, herbaceous plants, and fruits
 
