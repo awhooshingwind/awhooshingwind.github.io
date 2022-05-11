@@ -9,9 +9,8 @@
 ##### Tacoma Community College - AS: Astronomy *December 2022*  
  
 ###### Relevant Coursework:
-- Engineering-based Physics Progression 
-- Calculus (through multi-variable and differential equations) & Linear Algebra 
-- Applied Numerical Methods - Engineering Focus (Matlab) 
+- Engineering-based Physics Progression & Applied Numerical Methods (Matlab)
+- Calculus (through multi-variable and differential equations) & Linear Algebra
 - 1 Year Java Programming  
 
 ##### Colorado State University - BA: English Literature *May 2010*  
@@ -28,7 +27,7 @@
 - Led interactive live sessions over Zoom to impart culinary and cultural knowledge
 - Provided personalized video feedback for each student's weekly cooking assignment
 - Taught multiple sections of world cuisine (100+ sudents in each), focusing on importance of understanding one another through our food
-- Held tutoring sessions focusing on restaurant/business math
+- Held tutoring sessions for restaurant/business math & writing
 - Developed Excel spreadsheets to streamline tracking student progress (weekly assignment submissions, participation, etc.) - data pulled from Moodle CMS, Salesforce, and Sisense
 - Created a simple grade tracking spreadsheet for student use (Moodle lacked an option to explore possible grade outcomes with differently weighted assignments and quizzes)
 - Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (prizes included cookbooks/cooking utensils)  
