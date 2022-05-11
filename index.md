@@ -1,4 +1,4 @@
-### Jacob Pierson {#name}  
+### Jacob Pierson
 
 > Clever block quote goes here
 > 
