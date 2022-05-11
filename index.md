@@ -47,7 +47,7 @@ Relevant Coursework:
 - Increased student engagement by holding quarterly cooking challenges with prizes, students would have to design and cost an effective menu, then the class would vote to select the winners (prizes were cookbooks/cooking utensils)  
 
 ---
-**Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al [^1], June 2010 - September 2019***
+**Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al, [^1] June 2010 - September 2019***
 
 - Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
 - Explored hydration and agitation of wheat proteins for optimal gluten structures (hand making fresh pasta daily)
