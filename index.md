@@ -5,12 +5,7 @@
 >
 > Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com), [GitHub](https://github.com/awhooshingwind)
 
-## Skills: {#skills}  
-
-- Bill paying 
-- Awesomeness
-
-## Education: {#school}  
+## Education:
 
 ### Tacoma Community College - AS: Astronomy *December 2022*  
  
@@ -20,19 +15,16 @@ Relevant Coursework:
 - Applied Numerical Methods - Engineering Focus (Matlab) 
 - 1 Year Java Programming  
 
-
 ### Colorado State University - BA: English Literature *May 2010*  
-
 
 ---
 
-## Work Experience: {#work}  
+## Work Experience: 
 
 **Founder - *Chiral Crafts LLC, May 2020 - Present***
 
 - I started this small company for freelance work outside of my studies & attempts to strengthen my graduate school application
-- So far, I've done commissioned metalwork proejcts (some [wine bar shelving](/images/all_together_now.png) and knife sharpening, but hope to expand into making custom furniture and development work/data visualization
-  
+- So far, I've done commissioned metalwork proejcts (some [wine bar shelving](/images/all_together_now.png) and knife sharpening, but hope to expand into making custom furniture and development work/data visualization  
 
 ---
 
