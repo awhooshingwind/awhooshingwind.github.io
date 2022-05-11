@@ -47,11 +47,11 @@ Relevant Coursework:
 - Increased student engagement by holding quarterly cooking challenges with prizes, students would have to design and cost an effective menu, then the class would vote to select the winners (prizes were cookbooks/cooking utensils)  
 
 ---
-**Culinary Engineer - *Doe Bay Café, Snooze Eatery, et. al[^1], June 2010 - September 2019***
+**Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al [^*], June 2010 - September 2019***
 
 - Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
 - Explored hydration and agitation of wheat proteins for optimal gluten structures (hand making fresh pasta daily)
 - Utilized various chemicals and enzymes to cultivate sanitary (and tasty) environments for food preservation, such as salt and nitrites for various proteins (bacon, pastrami, beet-based pastrami) and lactic acids from produce cultivated onsite (kimchi, various pickles and krauts)
 - Continued a decade's worth of research into Maillard reactions in various animal proteins, herbaceous plants, and fruits
 
-[^1]: List of specific restaurants available upon request, ranging from fine dining to fast casual
+[^*] Various other restaurants, ranging from fine dine to fast casual, most roles involving kitchen leadership (sous chef, trainer, lead cook, etc)
