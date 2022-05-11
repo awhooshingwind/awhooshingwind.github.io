@@ -25,7 +25,7 @@
 
 - Led interactive live sessions over Zoom to impart culinary and cultural knowledge
 - Provided personalized video feedback for each student's weekly cooking assignment
-- Taught multiple sections of world cuisine (100+ sudents in each), focusing on importance of understanding one another through our food
+- Taught multiple sections of world cuisine (100+ students in each), focusing on importance of understanding one another through our food
 - Held tutoring sessions for restaurant/business math & writing
 - Developed Excel spreadsheets to streamline tracking student progress (weekly assignment submissions, participation, etc.) - data pulled from Moodle CMS, Salesforce, and Sisense
 - Created a simple grade tracking spreadsheet for student use (Moodle lacked an option to explore possible grade outcomes with differently weighted assignments and quizzes)
