@@ -8,15 +8,13 @@
 
 ##### Tacoma Community College - AS: Astronomy *December 2022*  
  
-Relevant Coursework:
+###### Relevant Coursework:
 - Engineering-based Physics Progression 
 - Calculus (through multi-variable and differential equations) & Linear Algebra 
 - Applied Numerical Methods - Engineering Focus (Matlab) 
 - 1 Year Java Programming  
 
 ##### Colorado State University - BA: English Literature *May 2010*  
-
----
 
 #### Work Experience: 
 
@@ -34,8 +32,6 @@ Relevant Coursework:
 - Developed Excel spreadsheets to streamline tracking student progress (weekly assignment submissions, participation, etc.) - data pulled from Moodle CMS, Salesforce, and Sisense
 - Created a simple grade tracking spreadsheet for student use (Moodle lacked an option to explore possible grade outcomes with differently weighted assignments and quizzes)
 - Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (prizes included cookbooks/cooking utensils)  
-
----
 
 ##### Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al,[^1] June 2009 - September 2019*
 
