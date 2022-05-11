@@ -1,9 +1,9 @@
 ### Jacob Pierson
 
-> After a decade of working in kitchens, I am making a radical change
-> toward astrophysics researcher 
+> After a decade of working in kitchens, I am attempting a radical change, 
+> endeavoring to get involved in astrophysics research. 
 >
-> Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com), [:octocat:](https://github.com/awhooshingwind)
+> Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com), [GitHub](https://github.com/awhooshingwind)
 
 ## Skills: {#skills}  
 
