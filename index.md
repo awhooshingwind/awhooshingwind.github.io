@@ -1,4 +1,4 @@
-# Jacob Pierson # {#name}
+# Jacob Pierson {#name}
 
 > Clever block quote goes here
 > 
@@ -8,13 +8,13 @@
 
 
 
-## Skills: ## {#skills}
+## Skills: {#skills}
 - Bill paying 
 - Awesomeness
 
-## Education:  ## {#school}
+## Education: {#school}
 
-### Tacoma Community College - AS: Astronomy *December 2022*  ###
+### Tacoma Community College - AS: Astronomy *December 2022*  
 
 Relevant Coursework:
 - Engineering-based Physics Progression 
@@ -22,12 +22,12 @@ Relevant Coursework:
 - Applied Numerical Methods - Engineering Focus (Matlab) 
 - 1 Year Java Programming
 
-### Colorado State University - BA: English Literature *May 2010* ###  
+### Colorado State University - BA: English Literature *May 2010*  
   
 
 ---
 
-## Work Experience: ## {#work}  
+## Work Experience: {#work}  
 
 
 **Founder - *Chiral Crafts LLC, May 2020 - Present***
