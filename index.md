@@ -54,4 +54,4 @@ Relevant Coursework:
 - Utilized various chemicals and enzymes to cultivate sanitary (and tasty) environments for food preservation, such as salt and nitrites for various proteins (bacon, pastrami, beet-based pastrami) and lactic acids from produce cultivated onsite (kimchi, various pickles and krauts)
 - Continued a decade's worth of research into Maillard reactions in various animal proteins, herbaceous plants, and fruits
 
-[^*] Various other restaurants, ranging from fine dining to fast casual, most roles involving kitchen leadership (sous chef, trainer, lead cook, etc)
+[^*] Various other restaurants, ranging from fine-dining to fast-casual, most roles involving kitchen leadership (sous chef, trainer, lead cook, etc)
