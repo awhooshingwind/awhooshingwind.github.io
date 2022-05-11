@@ -2,7 +2,6 @@
 
 > After a decade of working in kitchens, I am attempting a radical change, 
 > endeavoring to get involved in astrophysics research. 
->
 > Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com), [GitHub](https://github.com/awhooshingwind)
 
 ## Education:
@@ -30,14 +29,13 @@ Relevant Coursework:
 
 **Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021***
 
-- Managed multiple classes (100+ students each class)
 - Led interactive live sessions over Zoom to impart culinary and cultural knowledge
 - Provided personalized video feedback for each student's weekly cooking assignment
-- Taught world cuisine, focusing on importance of understanding one another through our food
+- Taught multiple sections of world cuisine (100+ sudents in each), focusing on importance of understanding one another through our food
 - Held tutoring sessions focusing on restaurant/business math
 - Developed Excel spreadsheets to streamline tracking student progress (weekly assignment submissions, participation, etc.) - data pulled from Moodle CMS, Salesforce, and Sisense
 - Created a simple grade tracking spreadsheet for student use (Moodle lacked an option to explore possible grade outcomes with differently weighted assignments and quizzes)
-- Increased student engagement by holding quarterly cooking challenges with prizes, students would have to design and cost an effective menu, then the class would vote to select the winners (prizes were cookbooks/cooking utensils)  
+- Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (prizes included cookbooks/cooking utensils)  
 
 ---
 
