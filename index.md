@@ -3,7 +3,7 @@
 > 
 > Contact: 720-291-6056, jakep730@gmail.com  
 >
-> https://github.com/awhooshingwind  
+> [Github](https://github.com/awhooshingwind)
 
 
 
