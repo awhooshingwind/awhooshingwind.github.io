@@ -40,17 +40,18 @@ Relevant Coursework:
 - Managed multiple classes (100+ students each class)
 - Led interactive live sessions over Zoom to impart culinary and cultural knowledge
 - Provided personalized video feedback for each student's weekly cooking assignment
-- Taught classes on world cuisine, focusing on importance of understanding one another through our food
+- Taught world cuisine, focusing on importance of understanding one another through our food
 - Held tutoring sessions focusing on restaurant/business math
 - Developed Excel spreadsheets to streamline tracking student progress (weekly assignment submissions, participation, etc.) - data pulled from Moodle CMS, Salesforce, and Sisense
 - Created a simple grade tracking spreadsheet for student use (Moodle lacked an option to explore possible grade outcomes with differently weighted assignments and quizzes)
 - Increased student engagement by holding quarterly cooking challenges with prizes, students would have to design and cost an effective menu, then the class would vote to select the winners (prizes were cookbooks/cooking utensils)  
 
 ---
-**Culinary Engineer - *Doe Bay Café, June 2016 - September 2019***
+**Culinary Engineer - *Doe Bay Café, Snooze Eatery, et. al[^1], June 2010 - September 2019***
 
 - Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
 - Explored hydration and agitation of wheat proteins for optimal gluten structures (hand making fresh pasta daily)
 - Utilized various chemicals and enzymes to cultivate sanitary (and tasty) environments for food preservation, such as salt and nitrites for various proteins (bacon, pastrami, beet-based pastrami) and lactic acids from produce cultivated onsite (kimchi, various pickles and krauts)
 - Continued a decade's worth of research into Maillard reactions in various animal proteins, herbaceous plants, and fruits
 
+[^1]: List of specific restaurants available upon request, ranging from fine dining to fast casual
