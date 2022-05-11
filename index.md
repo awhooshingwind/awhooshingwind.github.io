@@ -1,10 +1,10 @@
 ### Jacob Pierson
 
-> Clever block quote goes here
-> 
-> Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com)  
+> After a decade of working in kitchens, I am making a radical change
+> toward astrophysics researcher 
 >
-> [Github](https://github.com/awhooshingwind)
+> Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com) \ 
+> [:octocat:](https://github.com/awhooshingwind)
 
 ## Skills: {#skills}  
 
@@ -31,8 +31,8 @@ Relevant Coursework:
 
 **Founder - *Chiral Crafts LLC, May 2020 - Present***
 
-- Since I'm attemtping to make a pretty radical career change (from 10 years of chef-dom to now hopefully a research astrophysicist), I started this small company for some freelance work outside of my studies/attempts to strengthen my graduate school application
-- So far, I've done commissioned metalwork (some [wine bar shelving](/images/all_together_now.png) and knife sharpening, but hope to expand into making custom furniture and development work/data visualization
+- I started this small company for freelance work outside of my studies & attempts to strengthen my graduate school application
+- So far, I've done commissioned metalwork proejcts (some [wine bar shelving](/images/all_together_now.png) and knife sharpening, but hope to expand into making custom furniture and development work/data visualization
   
 
 ---
@@ -50,7 +50,7 @@ Relevant Coursework:
 
 ---
 
-**Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al,[^1] June 2010 - September 2019***
+**Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al,[^1] June 2009 - September 2019***
 
 - Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
 - Explored hydration and agitation of wheat proteins for optimal gluten structures (hand making fresh pasta daily)
