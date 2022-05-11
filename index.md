@@ -1,7 +1,7 @@
 # Jacob Pierson #
 > Clever block quote goes here
 > 
-> Contact: 720-291-6056, jakep730@gmail.com  
+> Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com)  
 >
 > [Github](https://github.com/awhooshingwind)
 
@@ -31,7 +31,7 @@ Relevant Coursework:
 **Founder - *Chiral Crafts LLC, May 2020 - Present***
 
 - Since I'm attemtping to make a pretty radical career change (from 10 years of chef-dom to now hopefully a research astrophysicist), I started this small company for some freelance work outside of my studies/attempts to strengthen my graduate school application
-- So far I've mostly done commissioned metalwork (some [wine bar shelving](<img src="\images\all_together_now">) and knife sharpening, but hope to expand into making custom furniture and development work as I continue to learn more about programming
+- So far I've mostly done commissioned metalwork (some [wine bar shelving](\images\all_together_now) and knife sharpening, but hope to expand into making custom furniture and development work as I continue to learn more about programming
   
 
 ---
