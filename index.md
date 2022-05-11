@@ -1,4 +1,5 @@
-# Jacob Pierson #
+# Jacob Pierson # {#name}
+
 > Clever block quote goes here
 > 
 > Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com)  
@@ -7,11 +8,11 @@
 
 
 
-## Skills: ##
+## Skills: ## {#skills}
 - Bill paying 
 - Awesomeness
 
-## Education:  ##
+## Education:  ## {#school}
 
 ### Tacoma Community College - AS: Astronomy *December 2022*  ###
 
@@ -25,7 +26,8 @@ Relevant Coursework:
   
 
 ---
-## Work Experience: ##  
+
+## Work Experience: ## {#work}  
 
 
 **Founder - *Chiral Crafts LLC, May 2020 - Present***
@@ -35,6 +37,7 @@ Relevant Coursework:
   
 
 ---
+
 **Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021***
 
 - Managed multiple classes (100+ students each class)
@@ -47,6 +50,7 @@ Relevant Coursework:
 - Increased student engagement by holding quarterly cooking challenges with prizes, students would have to design and cost an effective menu, then the class would vote to select the winners (prizes were cookbooks/cooking utensils)  
 
 ---
+
 **Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al,[^1] June 2010 - September 2019***
 
 - Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
