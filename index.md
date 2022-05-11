@@ -1,4 +1,4 @@
-# Jacob Pierson {#name}
+# Jacob Pierson {#name}  
 
 > Clever block quote goes here
 > 
@@ -6,29 +6,28 @@
 >
 > [Github](https://github.com/awhooshingwind)
 
+## Skills: {#skills}  
 
-
-## Skills: {#skills}
 - Bill paying 
 - Awesomeness
 
-## Education: {#school}
+## Education: {#school}  
 
 ### Tacoma Community College - AS: Astronomy *December 2022*  
-
+ 
 Relevant Coursework:
 - Engineering-based Physics Progression 
 - Calculus (through multi-variable and differential equations) & Linear Algebra 
 - Applied Numerical Methods - Engineering Focus (Matlab) 
-- 1 Year Java Programming
+- 1 Year Java Programming  
+
 
 ### Colorado State University - BA: English Literature *May 2010*  
-  
+
 
 ---
 
 ## Work Experience: {#work}  
-
 
 **Founder - *Chiral Crafts LLC, May 2020 - Present***
 
