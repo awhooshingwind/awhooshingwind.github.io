@@ -19,7 +19,7 @@
 
 ###### Founder - *Chiral Crafts LLC, May 2020 - Present*
 
-- I started this small company for freelance work, so far, commissioned metalwork ([set of shelves for a wine bar](/images/all_together_now.png), [bars for this wall display](/images/bars_vert.png) and loads of knife sharpening), but expanding into custom furniture and development/data visualization  
+- I started this small company for freelance work, so far, commissioned metalwork ([set of shelves for a wine bar](/images/all_together_now.png), [bars for this wall display](/images/bars_vert.png), and loads of knife sharpening), but expanding into custom furniture and development/data visualization  
 
 ###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
 
