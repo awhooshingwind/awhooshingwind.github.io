@@ -1,3 +1,3 @@
-([Resume])(/resume.md)
+[Resume](/resume.md)
 
-([Projects])(/projects.md)
+[Projects](/projects.md)
