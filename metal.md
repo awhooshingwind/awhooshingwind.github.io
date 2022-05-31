@@ -7,3 +7,7 @@
 ## Square Tubing Bars for Wall Art Display
 ![bars](/images/bars_vert.png)
 ![both](/images/wall_both.png)
+
+## Home Office Shelving
+![stocked](/images/shelf_stocked.png)
+![empty](/images/shelf_empty.png)
