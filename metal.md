@@ -1,0 +1,9 @@
+## Shelves and Host Stand for Wine Bar
+- ![wine shelf](/images/wine_shelf.png)
+- ![shelf with bar table](/images/table_shelf.png)
+- ![host stand](/images/host_stand.png)
+- ![all together now](/images/all_together_now.png)  
+
+## Square Tubing Bars for Wall Art Display
+- ![bars](/images/bars_vert.png)
+- ![both] (/images/wall_both.png)
