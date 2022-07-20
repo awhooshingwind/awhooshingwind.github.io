@@ -51,4 +51,4 @@
 
 --- 
 
- That's all folks. As a reward for all that clicking, the aforementioned <a href="https://awhooshingwind.github.io/projects/Chilaquiles.pdf" target="_blank">chilaquiles</a>recipe
+ That's all folks. As a reward for all that clicking, the aforementioned <a href="https://awhooshingwind.github.io/projects/Chilaquiles.pdf" target="_blank">chilaquiles</a> recipe
