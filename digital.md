@@ -39,9 +39,15 @@
 - Explored hydration and agitation of wheat proteins for optimal gluten structures (hand making fresh pasta daily)
 - Utilized various chemicals and enzymes to cultivate sanitary (and tasty) environments for food preservation, such as salt and nitrites for various proteins (bacon, pastrami, beet-based pastrami) and lactic acids from produce cultivated onsite (kimchi, various pickles and krauts)
 - Continued a decade's worth of research into Maillard reactions in various animal proteins, herbaceous plants, and fruits
-- This dope recipe for [chilaquiles](/projects/Chilaquiles.pdf), you've come this far, so you've really earned it.
+- With many iterations, craft a pretty dope chilaquiles recipe
+
+--- 
+
+ That's all folks. As a reward for all that clicking, the aforementioned [chilaquiles](/projects/Chilaquiles.pdf) recipe
 
 
-[^1]: And many more restaurants, will gladly provide more detail, but I reckon I could **still** land a stage, even with this outdated [kitchen resume](/projects/JakeResume.pdf), if I had the mind to..
+[^1]: Many more restaurants, will gladly provide more detail, but I reckon I could **still** land a stage, even with this outdated [kitchen resume](/projects/JakeResume.pdf), if I had the mind to..
+  
+---
 
 [analog](/analog.md) there's just something earnest about it
