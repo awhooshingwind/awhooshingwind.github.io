@@ -20,13 +20,15 @@
 
 ##### Work Experience: 
 
-###### Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al,[^1] June 2009 - March 2022*
+###### Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al, June 2009 - March 2022*
 
 - Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
 - Explored hydration and agitation of wheat proteins for optimal gluten structures (hand making fresh pasta daily)
 - Utilized various chemicals and enzymes to cultivate sanitary (and tasty) environments for food preservation, such as salt and nitrites for various proteins (bacon, pastrami, beet-based pastrami) and lactic acids from produce cultivated onsite (kimchi, various pickles and krauts)
 - Continued a decade's worth of research into Maillard reactions in various animal proteins, herbaceous plants, and fruits
-- With many iterations, craft a pretty dope chilaquiles recipe
+- After many iterations, crafted a pretty dope chilaquiles recipe
+- Plus much, much more. Will gladly go into more detail, but I reckon I could **still** land a stage, even with this outdated <a href="https://awhooshingwind.github.io/projects/JakeResume.pdf" target="_blank">kitchen resume</a>, if I had the mind to..
+  
 
 ###### Founder - *Chiral Crafts LLC, May 2020 - Present*
 
@@ -42,13 +44,10 @@
 - Created a simple [grade tracking spreadsheet](https://docs.google.com/spreadsheets/d/1DTIHyR0CUrAtPCjrw08osnoBhqA_n8aNh5CT9zqhMIU/edit?usp=sharing) for student use (The company's custom LMS lacked any convenient, **simple** way for students to track their grade,this was for the many ESL/older students who struggled with the Moodle web interface overall)
 - Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
 
-
-[^1]: Plus so many others, will gladly provide more detail, but I reckon I could **still** land a stage, even with this outdated <a href="https://awhooshingwind.github.io/projects/JakeResume.pdf" target="_blank">kitchen resume</a>, if I had the mind to..
-  
 ---
 
 [analog](/analog.md) there's just something earnest about it  
 
 --- 
 
- That's all folks. As a reward for all that clicking, the aforementioned <a href="https://awhooshingwind.github.io/projects/Chilaquiles.pdf" target="_blank">chilaquiles</a> recipe
+ That's all folks. As a reward for all that clicking, the aforementioned <a href="https://awhooshingwind.github.io/projects/Chilaquiles.pdf" target="_blank">chilaquiles</a> recipe.
