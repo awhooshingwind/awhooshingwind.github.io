@@ -13,7 +13,7 @@
 
 
 ######  Technologies:
-- Java, Python, MATLAB, [Solidworks]((/projects/chair_summary.pdf)), Microsoft Office/Google Suites
+- Java, Python, MATLAB, [Solidworks](/projects/chair_summary.pdf), Microsoft Office/Google Suites
 
 ###### Colorado State University - BA: English Literature *May 2010*  
 
