@@ -40,7 +40,7 @@
 - Taught multiple sections of world cuisine (100+ students in each), focusing on importance of understanding one another through our food
 - Held tutoring sessions for restaurant/business math & writing
 - Developed Excel spreadsheets for tracking student progress (weekly assignment submissions, participation, etc.) - data pulled from Moodle CMS, Salesforce, and Sisense
-- Created a simple [grade tracking spreadsheet](/projects/SWM_Grade_Calculator.xlsx) for student use (The company's custom LMS lacked any convenient, **simple** way for students to track their grade,this was for the many ESL/older students who struggled with the Moodle web interface overall)
+- Created a simple [grade tracking spreadsheet](https://docs.google.com/spreadsheets/d/1DTIHyR0CUrAtPCjrw08osnoBhqA_n8aNh5CT9zqhMIU/edit?usp=sharing) for student use (The company's custom LMS lacked any convenient, **simple** way for students to track their grade,this was for the many ESL/older students who struggled with the Moodle web interface overall)
 - Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
 
 
