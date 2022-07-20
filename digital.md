@@ -35,7 +35,7 @@ Multi-variable and Vector <a href="https://github.com/awhooshingwind/Math254" ta
 
 ###### Founder - *Chiral Crafts LLC, May 2020 - Present*
 
-- I started this small company for freelance work. So far, <a href="https://awhooshingwind.github.io/metal.md" target="_blank">commissioned metalwork</a>() and loads of knife/tool sharpening, but expanding into custom furniture along with some development, particularly data visualization 
+- I started this small company for freelance work. So far, <a href="https://awhooshingwind.github.io/metal.html" target="_blank">commissioned metalwork</a>() and loads of knife/tool sharpening, but expanding into custom furniture along with some development, particularly data visualization 
 
 ###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
 
