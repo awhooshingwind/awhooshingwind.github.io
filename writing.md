@@ -6,4 +6,4 @@
 
 ## Technical Writing
 
-[Final Report](https://docs.google.com/document/d/1zslfxNiTz2kqxAz22RuVwdfqIuXCeBObVWSe8apfrdw/edit) - mock propsoal to add writing projects to math classes
+[Final Report](https://docs.google.com/document/d/1zslfxNiTz2kqxAz22RuVwdfqIuXCeBObVWSe8apfrdw/edit) - mock proposal to add writing projects to math classes
