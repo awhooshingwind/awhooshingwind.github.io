@@ -1,8 +1,9 @@
 ### Jacob Pierson
 
-I find myself at a crossroads [digital](/digital.md) | [analog](/analog.md)
+I find myself at a crossroads 
+[digital](/digital.md) | [analog](/analog.md)
 
-I have spent the last decade working in kitchens. This has allowed me to travel the world, taste some delicious ingredients, it's been a truly extraordinary experience. And while food will always be my passion, science has fueled my curiosity since I was a boy. 
+I have spent the last decade working in kitchens. This has allowed me to travel the world, taste some delicious ingredients, many extraordinary experiences. And while food will always be my passion, science has fueled my curiosity since I was a boy. 
 
 So, I am attemting a new challenge - to apply the skills I've honed to a STEM field. I've picked up quite the bag of tricks, I'd love an opportunity to work with you.
 
