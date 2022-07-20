@@ -9,12 +9,12 @@
 ###### Tacoma Community College - AS: Astronomy *December 2022*  
  
 ###### Relevant Coursework:
-- Engineering-based [Physics](/projects/Lab4FreeBodyDiagrams.pdf) Progression, Multi-variable and Vector [Calculus](https://github.com/awhooshingwind/Math254), Linear Algebra
+- Engineering-based [Physics](/projects/Lab4FreeBodyDiagrams.pdf) Progression, Multi-variable and Vector [Calculus](https://github.com/awhooshingwind/Math254), [Linear Algebra](/projects/jpierson_app1.pdf)
 - [Applied Numerical Methods](https://github.com/awhooshingwind/ENGR240), [Java](https://github.com/awhooshingwind/DelightfulDeli) Programming and Data Structures, [Technical Writing](https://docs.google.com/document/d/1zslfxNiTz2kqxAz22RuVwdfqIuXCeBObVWSe8apfrdw/edit)
 
 
 ######  Technologies:
-- Java, Python, MATLAB, [Solidworks](/projects/chair_summary.pdf), Microsoft Office/Google Suites
+- Java, Python, MATLAB, [Solidworks](<a href="awhooshingwind.github.io/projects/chair_summary.pdf" target="_blank">PDF.</a>), Microsoft Office/Google Suites
 
 ###### Colorado State University - BA: English Literature, Spanish Minor *May 2010*  
 
