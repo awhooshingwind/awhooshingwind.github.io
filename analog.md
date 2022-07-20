@@ -1,0 +1,1 @@
+placeholder for handwritten pdf (earnesty in analog)

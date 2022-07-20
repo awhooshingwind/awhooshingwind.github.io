@@ -1,7 +1,11 @@
 ### Jacob Pierson
 
-> After a decade of working in kitchens, I am attempting a radical change, 
-> endeavoring to get involved in astrophysics research. 
+I find myself at a crossroads [digital](/digital.md) | [analog](/analog.md)
+
+I have spent the last decade working in kitchens. This has allowed me to travel the world, taste some delicious ingredients, it's been a truly extraordinary experience. And while food will always be my passion, science has fueled my curiosity since I was a boy. 
+
+So, I am attemting a new challenge - to apply the skills I've honed to a STEM field. I've picked up quite the bag of tricks, I'd love an opportunity to work with you.
+
 > Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com), [GitHub](https://github.com/awhooshingwind)
 
 ##### Education:
@@ -9,9 +13,10 @@
 ###### Tacoma Community College - AS: Astronomy *December 2022*  
  
 ###### Relevant Coursework:
-- Engineering-based Physics Progression & Applied Numerical Methods (Matlab)
-- Calculus (through multi-variable and differential equations) & Linear Algebra
-- 1 Year Java Programming  
+- Engineering-based Physics Progression, Applied Numerical Methods, Multi-variable and Vector Calculus, Linear Algebra, Java Programming and Data Structures
+
+######  Technologies:
+- Java, Python, MATLAB, Solidworks, Microsoft Office/Google Suites
 
 ###### Colorado State University - BA: English Literature *May 2010*  
 
@@ -31,7 +36,7 @@
 - Created a simple grade tracking spreadsheet for student use (Moodle lacked an option to explore possible grade outcomes with differently weighted assignments and quizzes)
 - Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
 
-###### Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al,[^1] June 2009 - September 2019*
+###### Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al,[^1] June 2009 - March 2022*
 
 - Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
 - Explored hydration and agitation of wheat proteins for optimal gluten structures (hand making fresh pasta daily)
