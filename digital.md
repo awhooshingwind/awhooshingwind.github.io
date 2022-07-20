@@ -21,17 +21,7 @@
 
 ###### Founder - *Chiral Crafts LLC, May 2020 - Present*
 
-- I started this small company for freelance work. So far, [commissioned metalwork](/metal.md) and loads of knife/tool sharpening, but expanding into custom furniture along with some development, particularly data visualization  
-
-###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
-
-- Led interactive live sessions over Zoom to impart culinary and cultural knowledge
-- Provided personalized video feedback for each student's weekly cooking assignment
-- Taught multiple sections of world cuisine (100+ students in each), focusing on importance of understanding one another through our food
-- Held tutoring sessions for restaurant/business math & writing
-- Developed Excel spreadsheets for tracking student progress (weekly assignment submissions, participation, etc.) - data pulled from Moodle CMS, Salesforce, and Sisense
-- Created a simple [grade tracking spreadsheet](/projects/SWM_Grade_Calculator.xlsx) for student use (Moodle LMS lacked any convenient, **simple** way for students to track their grade, many ESL/older students struggled with the web interface overall)
-- Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
+- I started this small company for freelance work. So far, [commissioned metalwork](/metal.md) and loads of knife/tool sharpening, but expanding into custom furniture along with some development, particularly data visualization 
 
 ###### Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al,[^1] June 2009 - March 2022*
 
@@ -41,13 +31,24 @@
 - Continued a decade's worth of research into Maillard reactions in various animal proteins, herbaceous plants, and fruits
 - With many iterations, craft a pretty dope chilaquiles recipe
 
---- 
 
- That's all folks. As a reward for all that clicking, the aforementioned [chilaquiles](/projects/Chilaquiles.pdf) recipe
+###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
+
+- Led interactive live sessions over Zoom to impart culinary and cultural knowledge
+- Provided personalized video feedback for each student's weekly cooking assignment
+- Taught multiple sections of world cuisine (100+ students in each), focusing on importance of understanding one another through our food
+- Held tutoring sessions for restaurant/business math & writing
+- Developed Excel spreadsheets for tracking student progress (weekly assignment submissions, participation, etc.) - data pulled from Moodle CMS, Salesforce, and Sisense
+- Created a simple [grade tracking spreadsheet](/projects/SWM_Grade_Calculator.xlsx) for student use (The company's custom LMS lacked any convenient, **simple** way for students to track their grade,this was for the many ESL/older students who struggled with the Moodle web interface overall)
+- Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
 
 
-[^1]: Many more restaurants, will gladly provide more detail, but I reckon I could **still** land a stage, even with this outdated [kitchen resume](/projects/JakeResume.pdf), if I had the mind to..
+[^1]: Plus so many others, will gladly provide more detail, but I reckon I could **still** land a stage, even with this outdated [kitchen resume](/projects/JakeResume.pdf), if I had the mind to..
   
 ---
 
-[analog](/analog.md) there's just something earnest about it
+[analog](/analog.md) there's just something earnest about it  
+
+--- 
+
+ That's all folks. As a reward for all that clicking, the aforementioned [chilaquiles](/projects/Chilaquiles.pdf) recipe
