@@ -9,7 +9,7 @@
 ###### Tacoma Community College - AS: Astronomy *December 2022*  
  
 ###### Relevant Coursework:
-- Engineering-based [Physics](/projects/Lab4FreeBodyDiagrams.pdf) Progression, Multi-variable and Vector [Calculus](/writing.md), Linear Algebra
+- Engineering-based [Physics](/projects/Lab4FreeBodyDiagrams.pdf) Progression, Multi-variable and Vector [Calculus](https://github.com/awhooshingwind/Math254), Linear Algebra
 - [Applied Numerical Methods](https://github.com/awhooshingwind/ENGR240), [Java](https://github.com/awhooshingwind/DelightfulDeli) Programming and Data Structures, [Technical Writing](https://docs.google.com/document/d/1zslfxNiTz2kqxAz22RuVwdfqIuXCeBObVWSe8apfrdw/edit)
 
 
