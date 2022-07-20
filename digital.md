@@ -35,7 +35,7 @@ Multi-variable and Vector <a href="https://github.com/awhooshingwind/Math254" ta
 - Plus much, much more. Will gladly go into additional detail, but I reckon I could **still** land a kitchen stage, even with this outdated (2020) <a href="https://awhooshingwind.github.io/projects/JakeResume.pdf" target="_blank">kitchen resume</a>, if I had the mind to..
   
 
-###### Founder - *Chiral Crafts LLC, May 2020 - Present*
+###### Founder - *Chiral Crafts LLC, January 2021 - Present*
 
 - I started this small company for my own freelance work. So far, <a href="https://awhooshingwind.github.io/metal.html" target="_blank">commissioned metalwork</a>() and loads of knife/tool sharpening, but expanding into custom furniture along with some development work, particularly data visualization 
 
