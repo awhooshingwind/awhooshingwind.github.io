@@ -27,20 +27,22 @@ Multi-variable and Vector <a href="https://github.com/awhooshingwind/Math254" ta
 
 - Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
 - Explored hydration and agitation of wheat proteins for optimal gluten structures (hand making fresh pasta daily)
-- Utilized various chemicals and enzymes to cultivate sanitary (and tasty) environments for food preservation, such as salt and nitrites for various proteins (bacon, pastrami, beet-based pastrami) and lactic acids from produce cultivated onsite (kimchi, various pickles and krauts)
-- Continued a decade's worth of research into Maillard reactions in various animal proteins, herbaceous plants, and fruits
+- Utilized various chemicals and enzymes to cultivate sanitary (and tasty) environments for food preservation:
+    - Salt and nitrites for various proteins - bacon, lardo, pastrami(both beet and beef based)
+    - Salt, lactic and/or acetic acids for fresh produce (sour fruits, kimchi, myriad pickles and condiments)
+- Continued a decade's worth of research into Maillard reactions in different animal proteins, herbaceous plants, and fruits
 - After many iterations, crafted a pretty dope chilaquiles recipe
-- Plus much, much more. Will gladly go into more detail, but I reckon I could **still** land a stage, even with this outdated <a href="https://awhooshingwind.github.io/projects/JakeResume.pdf" target="_blank">kitchen resume</a>, if I had the mind to..
+- Plus much, much more. Will gladly go into additional detail, but I reckon I could **still** land a kitchen stage, even with this outdated (2020) <a href="https://awhooshingwind.github.io/projects/JakeResume.pdf" target="_blank">kitchen resume</a>, if I had the mind to..
   
 
 ###### Founder - *Chiral Crafts LLC, May 2020 - Present*
 
-- I started this small company for freelance work. So far, <a href="https://awhooshingwind.github.io/metal.html" target="_blank">commissioned metalwork</a>() and loads of knife/tool sharpening, but expanding into custom furniture along with some development, particularly data visualization 
+- I started this small company for my own freelance work. So far, <a href="https://awhooshingwind.github.io/metal.html" target="_blank">commissioned metalwork</a>() and loads of knife/tool sharpening, but expanding into custom furniture along with some development work, particularly data visualization 
 
 ###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
 
 - Led interactive live sessions over Zoom to impart culinary and cultural knowledge
-- Provided personalized video feedback for each student's weekly cooking assignment
+- Provided personalized video feedback for each student's weekly cooking assignments
 - Taught multiple sections of world cuisine (100+ students in each), focusing on importance of understanding one another through our food
 - Held tutoring sessions for restaurant/business math & writing
 - Developed Excel spreadsheets for tracking student progress (weekly assignment submissions, participation, etc.) - data pulled from Moodle CMS, Salesforce, and Sisense
