@@ -14,7 +14,7 @@
 
 
 ######  Technologies:
-- Java, Python, MATLAB, (<a href="awhooshingwind.github.io/projects/chair_summary.pdf" target="_blank">Solidworks.</a>), Microsoft Office/Google Suites
+- Java, Python, MATLAB, (<a href="awhooshingwind.github.io/projects/chair_summary.pdf" target="_blank">Solidworks</a>), Microsoft Office/Google Suites
 
 ###### Colorado State University - BA: English Literature, Spanish Minor *May 2010*  
 
