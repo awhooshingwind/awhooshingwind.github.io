@@ -1,7 +1,7 @@
 ### Jacob Pierson
 
-> *For best effect, view in web browser*
-
+> **For best effect, view in web browser**
+>
 > Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com), [GitHub](https://github.com/awhooshingwind)
 
 ##### Education:
@@ -13,7 +13,7 @@
 
 
 ######  Technologies:
-- Java, Python, MATLAB, [Solidworks]((/projects/chairSummary.pdf)), Microsoft Office/Google Suites
+- Java, Python, MATLAB, [Solidworks]((/projects/chair_summary.pdf)), Microsoft Office/Google Suites
 
 ###### Colorado State University - BA: English Literature *May 2010*  
 
