@@ -4,6 +4,9 @@
 
 [Probability Density Integral](/projects/jpierson_wp2.pdf)
 
+## Linear Algebra Project
+[Network Flow](/projects/jpierson_app1.pdf)
+
 ## Technical Writing
 
 [Final Report](https://docs.google.com/document/d/1zslfxNiTz2kqxAz22RuVwdfqIuXCeBObVWSe8apfrdw/edit) - mock proposal to add writing projects to math classes
