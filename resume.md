@@ -12,15 +12,16 @@ So, I am attemting a new challenge - to apply the skills I've honed to a STEM fi
 
 ##### Education:
 
-###### Tacoma Community College - AS: Astronomy *December 2022*  
+###### Tacoma Community College - AS: Astronomy *August 2022*  
  
 ###### Relevant Coursework:
-- Engineering-based Physics Progression, Applied Numerical Methods, Multi-variable and Vector Calculus, Linear Algebra, Java Programming and Data Structures
+- Engineering-based Physics Progression, Multi-variable and Vector Calculus, Linear Algebra
+- Applied Numerical Methods Java Programming and Data Structures
 
 ######  Technologies:
 - Java, Python, MATLAB, Solidworks, Microsoft Office/Google Suites
 
-###### Colorado State University - BA: English Literature *May 2010*  
+###### Colorado State University - BA: English Literature, Spanish Minor *May 2010*  
 
 ##### Work Experience: 
 
