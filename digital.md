@@ -9,12 +9,12 @@
 ###### Tacoma Community College - AS: Astronomy *December 2022*  
  
 ###### Relevant Coursework:
-- Engineering-based [Physics](/projects/Lab4FreeBodyDiagrams.pdf) Progression, Multi-variable and Vector [Calculus](https://github.com/awhooshingwind/Math254), [Linear Algebra](/projects/jpierson_app1.pdf)
+- Engineering-based <a href="https://awhooshingwind.github.io//projects/Lab4FreeBodyDiagrams.pdf" target="_blank">Physics</a> Progression, Multi-variable and Vector [Calculus](https://github.com/awhooshingwind/Math254), <a href="https://awhooshingwind.github.io//projects/jpierson_app1.pdf" target="_blank">Linear Algebra</a>
 - [Applied Numerical Methods](https://github.com/awhooshingwind/ENGR240), [Java](https://github.com/awhooshingwind/DelightfulDeli) Programming and Data Structures, [Technical Writing](https://docs.google.com/document/d/1zslfxNiTz2kqxAz22RuVwdfqIuXCeBObVWSe8apfrdw/edit)
 
 
 ######  Technologies:
-- Java, Python, MATLAB, (<a href="awhooshingwind.github.io/projects/chair_summary.pdf" target="_blank">Solidworks</a>), Microsoft Office/Google Suites
+- Java, Python, MATLAB, <a href="https://awhooshingwind.github.io/projects/chair_summary.pdf" target="_blank">Solidworks</a>, Microsoft Office/Google Suites
 
 ###### Colorado State University - BA: English Literature, Spanish Minor *May 2010*  
 
@@ -43,7 +43,7 @@
 - Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
 
 
-[^1]: Plus so many others, will gladly provide more detail, but I reckon I could **still** land a stage, even with this outdated [kitchen resume](/projects/JakeResume.pdf), if I had the mind to..
+[^1]: Plus so many others, will gladly provide more detail, but I reckon I could **still** land a stage, even with this outdated <a href="https://awhooshingwind.github.io//projects/JakeResume.pdf" target="_blank">kitchen resume</a>, if I had the mind to..
   
 ---
 
@@ -51,4 +51,4 @@
 
 --- 
 
- That's all folks. As a reward for all that clicking, the aforementioned [chilaquiles](/projects/Chilaquiles.pdf) recipe
+ That's all folks. As a reward for all that clicking, the aforementioned <a href="https://awhooshingwind.github.io//projects/Chilaquiles.pdf" target="_blank">chilaquiles</a>recipe
