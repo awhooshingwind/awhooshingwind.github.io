@@ -27,7 +27,7 @@ So, I am attemting a new challenge - to apply the skills I've honed to a STEM fi
 
 ###### Founder - *Chiral Crafts LLC, May 2020 - Present*
 
-- I started this small company for freelance work, so far, [commissioned metalwork](/metal.md) and loads of knife sharpening, but expanding into custom furniture and development/data visualization  
+- I started this small company for freelance work. So far, [commissioned metalwork](/metal.md) and loads of knife/tool sharpening, but expanding into custom furniture along with some development, particularly data visualization  
 
 ###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
 
