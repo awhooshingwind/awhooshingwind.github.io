@@ -38,12 +38,10 @@ So, I am attemting a new challenge - to apply the skills I've honed to a STEM fi
 - Created a simple grade tracking spreadsheet for student use (Moodle lacked an option to explore possible grade outcomes with differently weighted assignments and quizzes)
 - Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
 
-###### Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al,[^1] June 2009 - March 2022*
+###### Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al, June 2009 - March 2022*
 
 - Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
 - Explored hydration and agitation of wheat proteins for optimal gluten structures (hand making fresh pasta daily)
 - Utilized various chemicals and enzymes to cultivate sanitary (and tasty) environments for food preservation, such as salt and nitrites for various proteins (bacon, pastrami, beet-based pastrami) and lactic acids from produce cultivated onsite (kimchi, various pickles and krauts)
 - Continued a decade's worth of research into Maillard reactions in various animal proteins, herbaceous plants, and fruits
-
-
-[^1]: Various other restaurants, ranging from fine-dining to fast-casual, most roles involving kitchen leadership (sous chef, trainer, lead cook, etc), happy to provide any additional information
+- Collaborate with very diverse crews at many different types of restaurants (hence the et. al), ranging from fine-dining to fast-casual, most roles involving kitchen leadership (sous chef, trainer, lead cook, etc), happy to provide any additional information.
