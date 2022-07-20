@@ -9,7 +9,7 @@
 ###### Tacoma Community College - AS: Astronomy *December 2022*  
  
 ###### Relevant Coursework:
-- Engineering-based <a href="https://awhooshingwind.github.io//projects/Lab4FreeBodyDiagrams.pdf" target="_blank">Physics</a> Progression, Multi-variable and Vector [Calculus](https://github.com/awhooshingwind/Math254), <a href="https://awhooshingwind.github.io//projects/jpierson_app1.pdf" target="_blank">Linear Algebra</a>
+- Engineering-based <a href="https://awhooshingwind.github.io/projects/Lab4FreeBodyDiagrams.pdf" target="_blank">Physics</a> Progression, Multi-variable and Vector [Calculus](https://github.com/awhooshingwind/Math254), <a href="https://awhooshingwind.github.io/projects/jpierson_app1.pdf" target="_blank">Linear Algebra</a>
 - [Applied Numerical Methods](https://github.com/awhooshingwind/ENGR240), [Java](https://github.com/awhooshingwind/DelightfulDeli) Programming and Data Structures, [Technical Writing](https://docs.google.com/document/d/1zslfxNiTz2kqxAz22RuVwdfqIuXCeBObVWSe8apfrdw/edit)
 
 
@@ -43,7 +43,7 @@
 - Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
 
 
-[^1]: Plus so many others, will gladly provide more detail, but I reckon I could **still** land a stage, even with this outdated <a href="https://awhooshingwind.github.io//projects/JakeResume.pdf" target="_blank">kitchen resume</a>, if I had the mind to..
+[^1]: Plus so many others, will gladly provide more detail, but I reckon I could **still** land a stage, even with this outdated <a href="https://awhooshingwind.github.io/projects/JakeResume.pdf" target="_blank">kitchen resume</a>, if I had the mind to..
   
 ---
 
@@ -51,4 +51,4 @@
 
 --- 
 
- That's all folks. As a reward for all that clicking, the aforementioned <a href="https://awhooshingwind.github.io//projects/Chilaquiles.pdf" target="_blank">chilaquiles</a>recipe
+ That's all folks. As a reward for all that clicking, the aforementioned <a href="https://awhooshingwind.github.io/projects/Chilaquiles.pdf" target="_blank">chilaquiles</a>recipe
