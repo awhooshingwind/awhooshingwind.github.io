@@ -8,7 +8,7 @@
  
 ###### Relevant Coursework:
 - Engineering-based Physics Progression, Multi-variable and Vector Calculus, Linear Algebra
-- Applied Numerical Methods Java Programming and Data Structures
+- Applied Numerical Methods, Java Programming and Data Structures
 
 ######  Technologies:
 - Java, Python, MATLAB, Solidworks, Microsoft Office/Google Suites
@@ -17,7 +17,7 @@
 
 ##### Work Experience: 
 
-###### Founder - *Chiral Crafts LLC, May 2020 - Present*
+###### Founder - *Chiral Crafts LLC, January 2021 - Present*
 
 - I started this small company for my own freelance work. So far, [commissioned metalwork](/metal.md) and loads of knife/tool sharpening, but expanding into custom furniture along with some development, particularly data visualization  
 
