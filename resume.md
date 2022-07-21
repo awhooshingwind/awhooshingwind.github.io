@@ -19,7 +19,8 @@
 
 ###### Founder - *Chiral Crafts LLC, January 2021 - Present*
 
-- I started this small company for my own freelance work. So far, [commissioned metalwork](/metal.md) and loads of knife/tool sharpening, but expanding into custom furniture along with some development, particularly data visualization  
+- I started this small company for my own freelance work
+- So far, that's meant [commissioned metalwork](/metal.md) and loads of knife/tool sharpening, but expanding into custom furniture along with some development, particularly data visualization  
 
 ###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
 
@@ -29,7 +30,7 @@
 - Held tutoring sessions for restaurant/business math & writing
 - Wrote Python scripts to streamline our weekly reporting process (scraped data from Salesforce, Moodle, Sisense into student progress tracking workbook)
 - Created a simple grade tracking spreadsheet for student use (their custom Moodle LMS lacked this functionality, built this tool for the many older and ESL students who struggled with Moodle interface overall)
-- Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (cookbooks/cooking utensils as prizes)  
+- Boosted student motivation with contests, students would design and cost an effective menu, class would vote for winner (cookbooks/cooking utensils as prizes)  
 
 ###### Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al, June 2009 - March 2022*
 
@@ -40,4 +41,4 @@
     - Salt, lactic and aceitic acids for fresh produce (sour fruits, kimchi, myriad pickles and condiments)
 - Continued a decade's worth of research into Maillard reactions in various animal proteins, herbaceous plants, and fruits
 - Collaborate with very diverse crews at many styles of restaurant(hence the et. al), ranging from fine-dining to fast-casual, most roles involving leadership (sous chef, trainer, lead cook, etc), happy to provide any additional information.
-- Fine tuned a pretty tasty chilaquiles recipe
+- Fine-tuned a pretty tasty chilaquiles recipe

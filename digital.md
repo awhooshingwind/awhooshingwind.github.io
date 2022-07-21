@@ -37,17 +37,18 @@ Multi-variable and Vector <a href="https://github.com/awhooshingwind/Math254" ta
 
 ###### Founder - *Chiral Crafts LLC, January 2021 - Present*
 
-- I started this small company for my own freelance work. So far, <a href="https://awhooshingwind.github.io/metal.html" target="_blank">commissioned metalwork</a> and loads of knife/tool sharpening, but expanding into custom furniture along with some development work, particularly data visualization 
+- I started this small company for my own freelance work
+- Mostly that's meant, <a href="https://awhooshingwind.github.io/metal.html" target="_blank">commissioned metalwork</a> and loads of knife/tool sharpening, but expanding into custom furniture along with some development work, particularly data visualization
 
 ###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
 
 - Led interactive live sessions over Zoom to impart culinary and cultural knowledge
 - Provided personalized video feedback for each student's weekly cooking assignments
 - Taught multiple sections of world cuisine (100+ students in each), focusing on importance of understanding one another through our food
-- Held tutoring sessions for restaurant/business math & writing
+- Held tutoring sessions for writing & restaurant/business math
 - Wrote Python scripts to streamline our weekly reporting process (scraped data from Salesforce, Moodle, Sisense into student progress tracking workbook)
 - Created a <a href="https://docs.google.com/spreadsheets/d/1DTIHyR0CUrAtPCjrw08osnoBhqA_n8aNh5CT9zqhMIU/edit?usp=sharing" target="_blank">grade tracking spreadsheet</a> for student use (The company's custom LMS lacked any convenient, **simple** way for students to track their grade,I made this for the many ESL/older students who struggled with the Moodle web interface overall)
-- Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
+- Boosted student engagement with contests, students would design and cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
 
 ---
 
