@@ -6,7 +6,7 @@
 
 ##### Education:
 
-###### Tacoma Community College - AS: Astronomy *December 2022*  
+###### Tacoma Community College - AS: Astronomy *August 2022*  
  
 ###### Relevant Coursework:
 - Engineering-based 
