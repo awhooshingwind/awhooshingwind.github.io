@@ -27,7 +27,7 @@
 - Provided personalized video feedback for each student's weekly cooking assignments
 - Taught multiple sections of world cuisine (100+ students in each), focusing on importance of understanding one another through our food
 - Held tutoring sessions for restaurant/business math & writing
-- Stramlined reporting/student tracking with some data scraping scripts (pulling from Salesforce, Excel, Sisense)
+- Wrote Python scripts to streamline our weekly reporting process (scraped data from Salesforce, Moodle, Sisense into student progress tracking workbook)
 - Created a simple grade tracking spreadsheet for student use (their custom Moodle LMS lacked this functionality, built this tool for the many older and ESL students who struggled with Moodle interface overall)
 - Increased student engagement with cooking challenges, students would have to design and cost an effective menu, class would vote for winner (cookbooks/cooking utensils as prizes)  
 
