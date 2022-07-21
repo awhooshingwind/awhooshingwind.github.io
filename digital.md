@@ -15,7 +15,6 @@ Multi-variable and Vector <a href="https://github.com/awhooshingwind/Math254" ta
 - <a href ="https://github.com/awhooshingwind/ENGR240" target="_blank">Applied Numerical Methods</a>, 
 <a href="https://github.com/awhooshingwind/DelightfulDeli" target="_blank">Java</a> Programming and Data Structures, <a href ="https://docs.google.com/document/d/1zslfxNiTz2kqxAz22RuVwdfqIuXCeBObVWSe8apfrdw/edit" target="_blank">Technical Writing</a>
 
-
 ######  Technologies:
 - Java, Python, MATLAB, <a href="https://awhooshingwind.github.io/projects/chair_summary.pdf" target="_blank">Solidworks</a>, Microsoft Office/Google Suites
 
@@ -34,11 +33,11 @@ Multi-variable and Vector <a href="https://github.com/awhooshingwind/Math254" ta
 - After many iterations, crafted a pretty dope chilaquiles recipe
 - Plus much, much more. Will gladly go into additional detail, but I reckon I could **still** land a kitchen stage, even with this outdated (2020) <a href="https://awhooshingwind.github.io/projects/JakeResume.pdf" target="_blank">kitchen resume</a>, if I had the mind to..
   
-
 ###### Founder - *Chiral Crafts LLC, January 2021 - Present*
 
 - I started this small company for my own freelance work
-- Mostly that's meant, <a href="https://awhooshingwind.github.io/metal.html" target="_blank">commissioned metalwork</a> and loads of knife/tool sharpening, but expanding into custom furniture along with some development work, particularly data visualization
+- Mostly that's meant, <a href="https://awhooshingwind.github.io/metal.html" target="_blank">commissioned metalwork</a> and loads of knife/tool sharpening
+- Starting to expand into custom furniture and some development, particularly data visualization  
 
 ###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
 

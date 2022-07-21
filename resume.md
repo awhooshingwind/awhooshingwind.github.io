@@ -20,7 +20,8 @@
 ###### Founder - *Chiral Crafts LLC, January 2021 - Present*
 
 - I started this small company for my own freelance work
-- So far, that's meant [commissioned metalwork](/metal.md) and loads of knife/tool sharpening, but expanding into custom furniture along with some development, particularly data visualization  
+- So far, that's meant [commissioned metalwork](/metal.md) and loads of knife/tool sharpening
+- Starting to expand into custom furniture and some development, particularly data visualization  
 
 ###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
 
