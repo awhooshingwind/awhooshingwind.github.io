@@ -1,8 +1,8 @@
-### Jacob Pierson
-
 > **For full effect, view in web browser**
 >
 > Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com), [GitHub](https://github.com/awhooshingwind)
+
+### Jacob Pierson
 
 ##### Education:
 
