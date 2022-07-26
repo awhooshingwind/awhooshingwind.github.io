@@ -29,7 +29,7 @@
 ###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
 
 - Led interactive live sessions over Zoom to impart culinary and cultural knowledge
-- Taught multiple sections of world cuisine (100+ students each), focusing on importance of understanding one another through our food
+- Taught multiple sections of world cuisine (100+ students each), focused on understanding others through food
 - Held tutoring sessions for restaurant/business math & writing
 - Wrote Python scripts to streamline our weekly reporting process (scraped data from Salesforce, Moodle, Sisense into student progress tracking workbook)
 - Created a simple grade tracking spreadsheet for student use (their custom Moodle LMS lacked this functionality, built this tool for the many older and ESL students who struggled with web interface)
@@ -43,5 +43,5 @@
     - Salt and nitrites for various proteins (bacon, salami, both beet and beef-based pastramis)
     - Salt, lactic and aceitic acids for fresh produce (sour fruits, kimchi, myriad pickles and condiments)
 - Continued a decade's worth of research into Maillard reactions
-- Collaborated with very diverse crews at many styles of restaurant (hence the et. al), from fine-dining to fast-casual, most roles involving leadership (sous chef, trainer, lead cook, etc), happy to provide any additional information
+- Collaborated with diverse crews at many styles of restaurant (hence the et. al), from fine-dining to fast-casual, mostly leadership roles (sous chef, trainer, lead cook, etc), happy to provide any additional information
 - Fine-tuned a pretty tasty chilaquiles recipe
