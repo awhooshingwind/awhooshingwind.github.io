@@ -4,11 +4,11 @@
 
 ##### Education:
 
-**Washington State University - BS: Physics, Astronomy Minor *May 2024*** 
+- Washington State University - BS: Physics, Astronomy Minor *May 2024*
 
-**Tacoma Community College - AS: Astronomy *August 2022***
+- Tacoma Community College - AS: Astronomy *August 2022*
 
-**Colorado State University - BA: English Literature, Spanish Minor *May 2010***
+- Colorado State University - BA: English Literature, Spanish Minor *May 2010*
  
 ###### Relevant Coursework:
 - Engineering-based Physics Progression, Multi-variable and Vector Calculus, Linear Algebra
