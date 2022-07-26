@@ -9,6 +9,8 @@
 ###### Washington State University - BS: Physics, Astronomy Minor *May 2024*  
 
 ###### Tacoma Community College - AS: Astronomy *August 2022*  
+
+###### Colorado State University - BA: English Literature, Spanish Minor *May 2010* 
  
 ###### Relevant Coursework:
 - Engineering-based 
@@ -19,9 +21,7 @@ Multi-variable and Vector <a href="https://github.com/awhooshingwind/Math254" ta
 <a href="https://github.com/awhooshingwind/DelightfulDeli" target="_blank">Java</a> Programming and Data Structures, <a href ="https://docs.google.com/document/d/1zslfxNiTz2kqxAz22RuVwdfqIuXCeBObVWSe8apfrdw/edit" target="_blank">Technical Writing</a>
 
 ######  Technologies:
-- Java, Python, MATLAB, <a href="https://awhooshingwind.github.io/projects/chair_summary.pdf" target="_blank">Solidworks</a>, Microsoft Office/Google Suites
-
-###### Colorado State University - BA: English Literature, Spanish Minor *May 2010*  
+- Java, Python, MATLAB, <a href="https://awhooshingwind.github.io/projects/chair_summary.pdf" target="_blank">Solidworks</a>, Microsoft Office/Google Suites 
 
 ##### Work Experience: 
 
