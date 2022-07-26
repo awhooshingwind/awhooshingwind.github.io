@@ -7,6 +7,8 @@
 ###### Washington State University - BS: Physics, Astronomy Minor *May 2024*  
 
 ###### Tacoma Community College - AS: Astronomy *August 2022*  
+
+###### Colorado State University - BA: English Literature, Spanish Minor *May 2010* 
  
 ###### Relevant Coursework:
 - Engineering-based Physics Progression, Multi-variable and Vector Calculus, Linear Algebra
@@ -14,9 +16,7 @@
 - Applied Numerical Methods, Java Programming and Data Structures
 
 ######  Technologies:
-- Java, Python, MATLAB, Solidworks, Microsoft Office/Google Suites
-
-###### Colorado State University - BA: English Literature, Spanish Minor *May 2010*  
+- Java, Python, MATLAB, Solidworks, Microsoft Office/Google Suites 
 
 ##### Work Experience: 
 
