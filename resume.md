@@ -4,10 +4,13 @@
 
 ##### Education:
 
+###### Washington State University - BS: Physics, Astronomy Minor *May 2024*  
+
 ###### Tacoma Community College - AS: Astronomy *August 2022*  
  
 ###### Relevant Coursework:
 - Engineering-based Physics Progression, Multi-variable and Vector Calculus, Linear Algebra
+- Differential Equations, Probability and Statistics
 - Applied Numerical Methods, Java Programming and Data Structures
 
 ######  Technologies:

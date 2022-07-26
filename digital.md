@@ -6,12 +6,15 @@
 
 ##### Education:
 
+###### Washington State University - BS: Physics, Astronomy Minor *May 2024*  
+
 ###### Tacoma Community College - AS: Astronomy *August 2022*  
  
 ###### Relevant Coursework:
 - Engineering-based 
 <a href="https://awhooshingwind.github.io/projects/Lab4FreeBodyDiagrams.pdf" target="_blank">Physics</a> Progression, 
 Multi-variable and Vector <a href="https://github.com/awhooshingwind/Math254" target="_blank">Calculus</a>, <a href="https://awhooshingwind.github.io/projects/jpierson_app1.pdf" target="_blank">Linear Algebra</a>
+- Differential Equations, Probability and Statistics
 - <a href ="https://github.com/awhooshingwind/ENGR240" target="_blank">Applied Numerical Methods</a>, 
 <a href="https://github.com/awhooshingwind/DelightfulDeli" target="_blank">Java</a> Programming and Data Structures, <a href ="https://docs.google.com/document/d/1zslfxNiTz2kqxAz22RuVwdfqIuXCeBObVWSe8apfrdw/edit" target="_blank">Technical Writing</a>
 
