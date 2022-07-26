@@ -6,11 +6,11 @@
 
 ##### Education:
 
-###### Washington State University - BS: Physics, Astronomy Minor *May 2024*  
+**Washington State University - BS: Physics, Astronomy Minor *May 2024*** 
 
-###### Tacoma Community College - AS: Astronomy *August 2022*  
+**Tacoma Community College - AS: Astronomy *August 2022***
 
-###### Colorado State University - BA: English Literature, Spanish Minor *May 2010* 
+**Colorado State University - BA: English Literature, Spanish Minor *May 2010***
  
 ###### Relevant Coursework:
 - Engineering-based 
@@ -28,11 +28,11 @@ Multi-variable and Vector <a href="https://github.com/awhooshingwind/Math254" ta
 ###### Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al, June 2009 - March 2022*
 
 - Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
-- Explored hydration and agitation of wheat proteins for optimal gluten structures (hand making fresh pasta daily)
-- Utilized various chemicals and enzymes to cultivate sanitary (and tasty) environments for food preservation:
+- Explored hydration and agitation of wheat proteins for optimal gluten structures (hand-making fresh pasta daily)
+- Utilized various chemicals and enzymes for safe (and tasty) food preservation:
     - Salt and nitrites for various proteins - bacon, lardo, pastrami(both beet and beef based)
     - Salt, lactic and/or acetic acids for fresh produce (sour fruits, kimchi, myriad pickles and condiments)
-- Continued a decade's worth of research into Maillard reactions in different animal proteins, herbaceous plants, and fruits
+- Continued a decade's worth of research into Maillard reactions
 - After many iterations, crafted a pretty dope chilaquiles recipe
 - Plus much, much more. Will gladly go into additional detail, but I reckon I could **still** land a kitchen stage, even with this outdated (2020) <a href="https://awhooshingwind.github.io/projects/JakeResume.pdf" target="_blank">kitchen resume</a>, if I had the mind to..
   
@@ -45,12 +45,11 @@ Multi-variable and Vector <a href="https://github.com/awhooshingwind/Math254" ta
 ###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
 
 - Led interactive live sessions over Zoom to impart culinary and cultural knowledge
-- Provided personalized video feedback for each student's weekly cooking assignments
-- Taught multiple sections of world cuisine (100+ students in each), focusing on importance of understanding one another through our food
+- Taught multiple sections of world cuisine (100+ students in each), focusing on importance of understanding one another through food
 - Held tutoring sessions for writing & restaurant/business math
 - Wrote Python scripts to streamline our weekly reporting process (scraped data from Salesforce, Moodle, Sisense into student progress tracking workbook)
-- Created a <a href="https://docs.google.com/spreadsheets/d/1DTIHyR0CUrAtPCjrw08osnoBhqA_n8aNh5CT9zqhMIU/edit?usp=sharing" target="_blank">grade tracking spreadsheet</a> for student use (The company's custom LMS lacked any convenient, **simple** way for students to track their grade,I made this for the many ESL/older students who struggled with the Moodle web interface overall)
-- Boosted student engagement with contests, students would design and cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
+- Created a <a href="https://docs.google.com/spreadsheets/d/1DTIHyR0CUrAtPCjrw08osnoBhqA_n8aNh5CT9zqhMIU/edit?usp=sharing" target="_blank">grade tracking spreadsheet</a> for student use (The company's custom LMS lacked any convenient, **simple** way for students to track their grade,so I made this for the many ESL/older students who struggled with the web interface)
+- Boosted student engagement with contests: students would design/cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
 
 ---
 
