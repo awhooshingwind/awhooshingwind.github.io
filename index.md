@@ -6,7 +6,7 @@ I find myself, now, at a crossroads.
 
 ### Resume
 
-[digital](/digital.md) | [analog](/resume.png)
+[digital](/digital.md) | [analog](/resume.jpg)
 
 
 ### [Projects](/projects.md)
