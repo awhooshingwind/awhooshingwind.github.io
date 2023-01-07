@@ -4,9 +4,9 @@ And while food will always be my passion, science has fueled my curiosity since 
 
 I find myself, now, at a crossroads. 
 
-### Resume
+### [Resume](/resume.pdf)
 
-[digital](/digital.md) | [analog](/resume.jpg)
+[digital(verbose)](/digital.md) | [analog(sparse)](/resume.jpg)
 
 
 ### [Projects](/projects.md)
