@@ -4,8 +4,8 @@ But keeping step with a restaurant lifestyle became a little too frenetic; I nee
 
 Over the shutdown, I enrolled at Tacoma Community College to catch up on some prerequisite maths. Now, I am working toward a Physics degree at Washington State University, with the goal of next pursuing a PhD, then a career in the domain of physics and astronomy.
 
-### [Resume](/resume.pdf)
+### Resume
 
-[digital(verbose)](/digital.md) | [analog(sparse)](/resume.jpg)
+[digital](/resume.pdf) | [analog](/resume.jpg)
 
 ### [Projects](/projects.md)
