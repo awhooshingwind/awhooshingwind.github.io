@@ -1,8 +1,8 @@
-[Metalwork](/metal.md)
+* [Metalwork](/metal.md)
 
-<a href="https://colab.research.google.com/drive/10AT5NzsGPmjJxqNRfzkWwnY9fknWxQ59?usp=sharing" target="_blank">Astronomy Project (Python) </a>
+* <a href="https://colab.research.google.com/drive/10AT5NzsGPmjJxqNRfzkWwnY9fknWxQ59?usp=sharing" target="_blank">Astronomy Project (Python) </a>
 
-[Parameterized Chair (Solidworks project)](/projects/chair_summary.pdf)
+* [Parameterized Chair (Solidworks project)](/projects/chair_summary.pdf)
 
 ## Writing Samples
 
