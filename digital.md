@@ -16,7 +16,7 @@ WORK IN PROGRESS
  
 ###### Coursework:
 * [Calculus](/projects/hw3.pdf)-based
-[Physics](/projects/GreatDebateLab.pdf) Progression, [Electronics Lab](/projects/Lab4.pdf)
+Physics Progression, [Electronics Lab](/projects/Lab4.pdf)
 * Differential Equations, Linear Algebra
 * Applied Numerical Methods, Probability & Statistics
 
@@ -49,5 +49,5 @@ WORK IN PROGRESS
 
 ##### Skills:
 * Python, LaTeX, Solidworks
-* Persistence, 3D Printing
+
 --- 

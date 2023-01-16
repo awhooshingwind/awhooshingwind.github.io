@@ -4,8 +4,5 @@
 
 * [Parameterized Chair (Solidworks project)](/projects/chair_summary.pdf)
 
-## Writing Samples
-
 * [Spring-Mass Report](/projects/Spring_Mass_Report.pdf)
 
-* [Probability Density Integral](/projects/jpierson_wp2.pdf)
