@@ -1,12 +1,9 @@
-I have spent the last decade working in kitchens. This has allowed me the opportunity to travel the world, to taste delicious ingredients - for so many memorable, extraordinary experiences. 
+I have spent the better part of my adult life, so far, working in kitchens. This afforded me an opportunity to travel the world, to taste all kinds of amazing ingredients, to make wonderful memories - all while honing a terribly useful skill - to prepare delicious food.
 
-And while food will always be my passion, science has fueled my curiosity since I was a boy. So, I am attempting a new challenge - to test these skills I've been honing in a STEM arena.
-
-I find myself, now, at a crossroads. 
+But keeping step with a restaurant lifestyle became a little too frenetic and I needed a change. Over the shutdown, I enrolled at Tacoma Community College to catch up on some prerequisite maths. Now, I am working toward a Physics degree at Washington State University, with the goal of next pursuing a PhD, then career in the domain of physics and astronomy.
 
 ### [Resume](/resume.pdf)
 
 [digital(verbose)](/digital.md) | [analog(sparse)](/resume.jpg)
-
 
 ### [Projects](/projects.md)
