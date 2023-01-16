@@ -1,4 +1,4 @@
-WORK IN PROGRESS, give more detail on specific experience, make links more meaningful
+WORK IN PROGRESS, give more detail and description on specific experience, make links more meaningful
 
 > Additional resume detail, with linked examples where appropriate
 >
