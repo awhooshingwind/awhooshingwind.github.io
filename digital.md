@@ -1,4 +1,4 @@
-> Additional resume detail, with examples where appropriate
+> Additional resume detail, with linked examples where appropriate
 >
 > Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com), [GitHub](https://github.com/awhooshingwind)
 
@@ -24,6 +24,10 @@
 * Help set up/disassemble equipment
 * Track and maintain lab inventory, ordering supplies as needed
 
+###### Research Intern - *Cold Atom Laboratory, September 2022 - Present*
+
+* Contribute to ongoing digital micromirror device [project](https://github.com/awhooshingwind/laser_test)
+
 ###### Learning Assistant - *Physics 101 at WSU, Fall Semester 2022*
 
 * Led groups of 20 students during in-class activites/[tutorials](/projects/forces.pdf)
@@ -37,6 +41,6 @@
 ###### [Cook](/projects/JakeResume.pdf)] - *Various, June 2009 - March 2022*
 
 * Worked in a variety of scratch kitchens
-* Achieved a pretty tasty [chilaaquiles](/projects/Chilaquiles.pdf)]recipe
+* Achieved a pretty tasty [chilaquiles](/projects/Chilaquiles.pdf)recipe
 
 --- 
