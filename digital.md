@@ -14,7 +14,7 @@ WORK IN PROGRESS
 * Colorado State University
     - English Literature, Bachelor's of Art - *May 2010*
  
-###### Coursework:
+##### Coursework:
 * [Calculus](/projects/hw3.pdf)-based
 Physics Progression, [Electronics Lab](/projects/Lab4.pdf)
 * Differential Equations, Linear Algebra
@@ -39,7 +39,7 @@ Physics Progression, [Electronics Lab](/projects/Lab4.pdf)
 
 ###### Freelance - *Chiral Crafts LLC (self-employed), January 2021 - Present*
 
-* Designed and fabricated custom commissioned [metalwork](/metal.md)
+* Design and fabricate custom commissioned [metalwork](/metal.md)
 * Knife/tool sharpening
 
 ###### [Cook](/projects/JakeResume.pdf) - *Various, June 2009 - March 2022*

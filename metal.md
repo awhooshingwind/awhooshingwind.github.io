@@ -1,4 +1,4 @@
-[<- Projects](/projects.md)
+[<- Projects](/projects.md)    [<- Digital](/digital.md)
 
 A few pieces:
 
