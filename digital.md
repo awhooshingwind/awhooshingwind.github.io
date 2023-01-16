@@ -1,4 +1,4 @@
-> **For full effect, view in web browser**
+> Additional resume detail, with examples where appropriate
 >
 > Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com), [GitHub](https://github.com/awhooshingwind)
 
@@ -6,41 +6,27 @@
 
 ##### Education:
 
-- Washington State University - BS: Physics, Astronomy Minor *May 2024*
+* Washington State University, Physics, Bachelor's of Science *May 2024*
 
-- Tacoma Community College - AS: Astronomy *August 2022*
-
-- Colorado State University - BA: English Literature, Spanish Minor *May 2010*
+* Colorado State University, English Literature, Bachelor's of Art *May 2010*
  
-###### Relevant Coursework:
-- Engineering-based 
-<a href="https://awhooshingwind.github.io/projects/Lab4FreeBodyDiagrams.pdf" target="_blank">Physics</a> Progression, 
-Multi-variable and Vector <a href="https://github.com/awhooshingwind/Math254" target="_blank">Calculus</a>, <a href="https://awhooshingwind.github.io/projects/jpierson_app1.pdf" target="_blank">Linear Algebra</a>
-- Differential Equations, Probability and Statistics
-- <a href ="https://github.com/awhooshingwind/ENGR240" target="_blank">Applied Numerical Methods</a>, 
-<a href="https://github.com/awhooshingwind/DelightfulDeli" target="_blank">Java</a> Programming and Data Structures, <a href ="https://docs.google.com/document/d/1zslfxNiTz2kqxAz22RuVwdfqIuXCeBObVWSe8apfrdw/edit" target="_blank">Technical Writing</a>
+###### Coursework:
+* <a href="https://awhooshingwind.github.io/projects/hw3.pdf" target="_blank">Calculus</a>-based
+<a href="https://awhooshingwind.github.io/projects/GreatDebateLab.pdf" target="_blank">Physics</a> Progression, <a href="https://awhooshingwind.github.io/projects/Lab4" target="_blank">Electronics</a> Lab
+* Differential Equations, Linear Algebra
+* Applied Numerical Methods, Probability & Statistics
 
-######  Technologies:
-- Java, Python, MATLAB, <a href="https://awhooshingwind.github.io/projects/chair_summary.pdf" target="_blank">Solidworks</a>, Microsoft Office/Google Suites 
+##### Work/Experience: 
 
-##### Work Experience: 
+###### <a href="https://awhooshingwind.github.io/projects/JakeResume.pdf" target="_blank">Cook</a> - *Various, June 2009 - March 2022*
 
-###### Culinary Engineer - *Doe Bay Café, Snooze an A.M Eatery, et. al, June 2009 - March 2022*
-
-- Created various stable, mechanically-mixed emulsions, with and without phospholipid assistance (hollandaise and other sauce work)
-- Explored hydration and agitation of wheat proteins for optimal gluten structures (hand-making fresh pasta daily)
-- Utilized various chemicals and enzymes for safe (and tasty) food preservation:
-    - Salt and nitrites for various proteins - bacon, lardo, pastrami(both beet and beef based)
-    - Salt, lactic and/or acetic acids for fresh produce (sour fruits, kimchi, myriad pickles and condiments)
-- Continued a decade's worth of research into Maillard reactions
-- After many iterations, crafted a pretty dope chilaquiles recipe
-- Plus much, much more. Will gladly go into additional detail, but I reckon I could **still** land a kitchen stage, even with this outdated (2020) <a href="https://awhooshingwind.github.io/projects/JakeResume.pdf" target="_blank">kitchen resume</a>, if I had the mind to..
+* Worked in a variety of scratch kitchens
+* 
   
-###### Founder - *Chiral Crafts LLC, January 2021 - Present*
+###### Freelance - *Chiral Crafts LLC (self-employed), January 2021 - Present*
 
-- I started this small company for my own freelance work
-- Mostly that's meant, <a href="https://awhooshingwind.github.io/metal.html" target="_blank">commissioned metalwork</a> and loads of knife/tool sharpening
-- Starting to expand into custom furniture and some development, particularly data visualization  
+* Designed and fabricated custom commissioned <a href="https://awhooshingwind.github.io/metal.html" target="_blank">metalwork</a>
+* Knife/tool sharpening
 
 ###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
 
@@ -50,10 +36,6 @@ Multi-variable and Vector <a href="https://github.com/awhooshingwind/Math254" ta
 - Wrote Python scripts to streamline our weekly reporting process (scraped data from Salesforce, Moodle, Sisense into student progress tracking workbook)
 - Created a <a href="https://docs.google.com/spreadsheets/d/1DTIHyR0CUrAtPCjrw08osnoBhqA_n8aNh5CT9zqhMIU/edit?usp=sharing" target="_blank">grade tracking spreadsheet</a> for student use (The company's custom LMS lacked any convenient, **simple** way for students to track their grade,so I made this for the many ESL/older students who struggled with the web interface)
 - Boosted student engagement with contests: students would design/cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
-
----
-
-[analog](/analog.md) there's just something earnest about it  
 
 --- 
 
