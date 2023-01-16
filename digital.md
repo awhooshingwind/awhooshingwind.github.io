@@ -1,3 +1,5 @@
+WORK IN PROGRESS
+
 > Additional resume detail, with linked examples where appropriate
 >
 > Contact: 720-291-6056, [jakep730@gmail.com](mailto:jakep730@gmail.com), [GitHub](https://github.com/awhooshingwind)
@@ -38,9 +40,12 @@
 * Designed and fabricated custom commissioned [metalwork](/metal.md)
 * Knife/tool sharpening
 
-###### [Cook](/projects/JakeResume.pdf)] - *Various, June 2009 - March 2022*
+###### [Cook](/projects/JakeResume.pdf) - *Various, June 2009 - March 2022*
 
 * Worked in a variety of scratch kitchens
-* Achieved a pretty tasty [chilaquiles](/projects/Chilaquiles.pdf)recipe
+* Achieved a pretty tasty [chilaquiles](/projects/Chilaquiles.pdf) recipe, among others
 
+##### Skills:
+* Python, LaTeX, Solidworks
+* Persistence, 3D Printing
 --- 
