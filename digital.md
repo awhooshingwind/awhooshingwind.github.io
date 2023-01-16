@@ -11,32 +11,32 @@
 * Colorado State University, English Literature, Bachelor's of Art *May 2010*
  
 ###### Coursework:
-* <a href="https://awhooshingwind.github.io/projects/hw3.pdf" target="_blank">Calculus</a>-based
-<a href="https://awhooshingwind.github.io/projects/GreatDebateLab.pdf" target="_blank">Physics</a> Progression, <a href="https://awhooshingwind.github.io/projects/Lab4" target="_blank">Electronics</a> Lab
+* [Calculus](/projects/hw3.pdf)-based
+[Physics](/projects/GreatDebateLab.pdf) Progression, [Electronics Lab](/projects/Lab4.pdf)
 * Differential Equations, Linear Algebra
 * Applied Numerical Methods, Probability & Statistics
 
 ##### Work/Experience: 
 
-###### <a href="https://awhooshingwind.github.io/projects/JakeResume.pdf" target="_blank">Cook</a> - *Various, June 2009 - March 2022*
+###### Technical Assistant - *Institute for Shock Physics, September 2022 - Present*
 
-* Worked in a variety of scratch kitchens
-* 
-  
+* Precisely clean impact guns between experiments
+* Help set up/disassemble equipment
+* Track and maintain lab inventory, ordering supplies as needed
+
+###### Learning Assistant - *Physics 101 at WSU, Fall Semester 2022*
+
+* Led groups of 20 students during in-class activites/[tutorials](/projects/forces.pdf)
+* Held weekly tutoring hours
+
 ###### Freelance - *Chiral Crafts LLC (self-employed), January 2021 - Present*
 
-* Designed and fabricated custom commissioned <a href="https://awhooshingwind.github.io/metal.html" target="_blank">metalwork</a>
+* Designed and fabricated custom commissioned [metalwork](/metal.md)
 * Knife/tool sharpening
 
-###### Chef Instructor - *Escoffier Culinary Arts, May 2020 - May 2021*
+###### [Cook](/projects/JakeResume.pdf)] - *Various, June 2009 - March 2022*
 
-- Led interactive live sessions over Zoom to impart culinary and cultural knowledge
-- Taught multiple sections of world cuisine (100+ students in each), focusing on importance of understanding one another through food
-- Held tutoring sessions for writing & restaurant/business math
-- Wrote Python scripts to streamline our weekly reporting process (scraped data from Salesforce, Moodle, Sisense into student progress tracking workbook)
-- Created a <a href="https://docs.google.com/spreadsheets/d/1DTIHyR0CUrAtPCjrw08osnoBhqA_n8aNh5CT9zqhMIU/edit?usp=sharing" target="_blank">grade tracking spreadsheet</a> for student use (The company's custom LMS lacked any convenient, **simple** way for students to track their grade,so I made this for the many ESL/older students who struggled with the web interface)
-- Boosted student engagement with contests: students would design/cost an effective menu, class would vote for winner (prizes of cookbooks/cooking utensils)  
+* Worked in a variety of scratch kitchens
+* Achieved a pretty tasty [chilaaquiles](/projects/Chilaquiles.pdf)]recipe
 
 --- 
-
- That's all folks. As a reward for all that clicking, the aforementioned <a href="https://awhooshingwind.github.io/projects/Chilaquiles.pdf" target="_blank">chilaquiles</a> recipe.
