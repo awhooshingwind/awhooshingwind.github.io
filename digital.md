@@ -8,9 +8,11 @@ WORK IN PROGRESS
 
 ##### Education:
 
-* Washington State University, Physics, Bachelor's of Science *May 2024*
+* Washington State University
+    - Physics, Bachelor's of Science - *May 2024*
 
-* Colorado State University, English Literature, Bachelor's of Art *May 2010*
+* Colorado State University
+    - English Literature, Bachelor's of Art - *May 2010*
  
 ###### Coursework:
 * [Calculus](/projects/hw3.pdf)-based
