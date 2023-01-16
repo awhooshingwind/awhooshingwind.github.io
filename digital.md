@@ -50,4 +50,5 @@ WORK IN PROGRESS, give more detail on specific experience, make links more meani
 ##### Skills:
 * Python, LaTeX, Solidworks <- find fun examples?
 * Link to other fun hobbies/projects/recipes <- This needs built out
+
 --- 
