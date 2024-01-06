@@ -1,9 +1,9 @@
-* <a href="https://colab.research.google.com/drive/1TPLB03Dyad_kkDolN497TV5cpY_h_9Jy?usp=sharing" target="_blank">Computational Physics using Euler's Method (Classical Mechanics Course)
+* <a href="https://colab.research.google.com/drive/1TPLB03Dyad_kkDolN497TV5cpY_h_9Jy?usp=sharing" target="_blank">Computational Physics using Euler's Method (Classical Mechanics)
 
 * <a href="https://gist.github.com/awhooshingwind/efca794c30858ee49626cb647ea70b06" target="_blank">Cereal Box Spectrometer Project </a>
 
-* [Spring-Mass Systems Report](/projects/Spring_Mass_Report.pdf)
+* <a href="https://awhooshingwind.github.io/projects/Spring_Mass_Report.pdf" target="_blank">Spring-Mass Report (Diffy-Qs) </a>
 
-* [Parameterized Chair (Solidworks project)](/projects/chair_summary.pdf)
+* <a href="https://awhooshingwind.github.io/projects/chair_summary.pdf" target="_blank">Parameterized Chair (Solidworks project) </a>
 
 * [Metalwork](/metal.md)
