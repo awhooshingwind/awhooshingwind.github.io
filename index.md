@@ -6,5 +6,3 @@ I intend next to pursue a PhD, then, a career in experimental research.
 
 
 ### [Projects](/projects.md)
-
-[Resume](/resume.pdf)
